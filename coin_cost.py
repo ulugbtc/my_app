@@ -7,7 +7,7 @@ from telegram import InlineQueryResultArticle, InputTextMessageContent
 from telegram.ext import CommandHandler
 
 
-updater = Updater(token='592647053:AAFZC8dkqsfybmBvxypViBIV42zTFGOWNYM')
+updater = Updater(token='592647053:AAFZC8dkqsfybmBvxypViBIV42zTFGOWNYM')# here your telegram bots ip
 dispatcher = updater.dispatcher
 
 
