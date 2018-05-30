@@ -55,7 +55,7 @@ dispatcher.add_handler(ethereum_handler)
 
 
 
-bot_name = 'https://http://t.me/coin_costbot'
+bot_name = 'https://t.me/coin_costbot'
 
 
 
